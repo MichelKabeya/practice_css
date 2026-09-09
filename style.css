@@ -20,6 +20,17 @@ border-bottom: solid thck rgb(153, 228, 32);
 padding-bottom: 15px;
 margin: 0%;
 }
+h2{
+font-size: 1.5em;
+font-weight: lighter;
+letter-spacing: 10px;
+margin: 0px;
+padding-left: 10px;
+}
+p{
+font-size: 1em;
+padding-left: 10px;
+}
 
 .title {
     position: absolute;
