@@ -30,6 +30,12 @@ padding-left: 10px;
 p{
 font-size: 1em;
 padding-left: 10px;
+font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+main li {
+    font-size: 1em;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
 }
 
 .title {
@@ -98,7 +104,8 @@ text-align: center;
 color: white;
 font-size: 0.8em;
 padding-top: 10px;
-padding-bottom: 100px;
+padding-bottom: 20px;
+padding-top: 20px;
 align-items:baseline;
 background-color: #c4ac6a;
 }
