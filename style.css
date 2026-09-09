@@ -6,7 +6,7 @@ body {
     width: 960px;
     margin-left: auto;
     margin-right: auto;
-    position: absolute;
+    position: block;
     top: 150px;
 }
 .title {
