@@ -70,3 +70,17 @@ a:hover {
     position: block;
     top: 150px;
 }
+
+
+
+
+
+footer{
+text-align: center;
+color: white;
+font-size: 0.7em;
+padding-top: 10px;
+padding-bottom: 5px;
+align-items:baseline;
+background-color: #f9db89;
+}

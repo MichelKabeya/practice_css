@@ -83,10 +83,11 @@ h1 {
 #booking h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1em;
+    text-align: center;
 }
 #booking p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
     font-size: 0.9em;
-    text-align: left;
+    text-align: center;
 }
