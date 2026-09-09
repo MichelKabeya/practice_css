@@ -26,7 +26,7 @@ main {
     margin-top: 15px;
 }
 header {
-    background-color: #f9db89;
+    background-color: #c4ac6a;
     height: 150px;
     position: relative;
 }
@@ -93,4 +93,15 @@ h1 {
     font-weight: lighter;
     font-size: 0.9em;
     text-align: center;
+}
+
+footer{
+text-align: center;
+color: white;
+font-size: 0.8em;
+padding-top: 10px;
+padding-bottom: 20px;
+padding-top: 20px;
+align-items:baseline;
+background-color: #c4ac6a;
 }
